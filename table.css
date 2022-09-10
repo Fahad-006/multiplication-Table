@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(156, 67, 219);    
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    background-color: chartreuse;
+    text-decoration: dotted;
+}
